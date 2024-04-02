@@ -1,1 +1,1 @@
-# Diarama
+# Diarama test BSE
